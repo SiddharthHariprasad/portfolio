@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 header{
-    background: url("/images/Sid.jpg");
+    background: url("../images/Sid.jpg");
     background-size: cover;
     background-position: center;
     min-height: 1000px;
